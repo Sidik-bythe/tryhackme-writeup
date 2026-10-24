@@ -1,18 +1,8 @@
-# 🛡️ TryHackMe Writeups - by Sidik
+# D7 Sidoarjo - Gold Backtest 30D
+Backtest XAU/USD pure Python (tanpa matplotlib) — built di Sidoarjo jam 03.53
 
-Kumpulan writeup & notes selama belajar Cyber Security di TryHackMe.
+- Profit: 5.09%
+- Trades: 12
+- Chart: chart.png (PNG asli, anti-lag di HP)
 
-### 📚 List Room
-- [x] H5 - Offensive Security Intro - BANK HACKED
-- [ ] Nmap
-- [ ] Linux Fundamentals
-- [ ] Network Enumeration
-
-### 🛠️ Tools yang dipake
-Termux | Nmap | Burp Suite | Hydra
-
-### 👨‍💻 About Me
-Surabaya | Learning Offensive Security
-GitHub: @sidik-bythe
-
-> "Learning by breaking"
+#Sidoarjo #Termux
